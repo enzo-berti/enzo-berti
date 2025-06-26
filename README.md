@@ -2,4 +2,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-berti&layout=compact&langs_count=8" alt="Top Languages" style="align-self: stretch;"/>
 </a>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=SmoothBrainStudio\&repo=SeedWagon\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=SmoothBrainStudio\&repo=SeedWagon)
