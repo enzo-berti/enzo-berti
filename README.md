@@ -1,7 +1,7 @@
 <a href="https://github.com/enzo-berti">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-berti&layout=compact&langs_count=8&card_width=460"" alt="Top Languages" style="align-self: stretch;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-berti&layout=compact&langs_count=8&card_width=460" alt="Top Languages" style="align-self: stretch;"/>
 </a>
 
 <a href="https://github.com/SmoothBrainStudio/SeedWagon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SmoothBrainStudio&repo=SeedWagon&card_width=460"" alt="SeedWagon Repo" style="align-self: stretch;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SmoothBrainStudio&repo=SeedWagon&card_width=460" alt="SeedWagon Repo" style="align-self: stretch;"/>
 </a>
