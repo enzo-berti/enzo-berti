@@ -3,5 +3,5 @@
 </a>
 
 <a href="https://github.com/SmoothBrainStudio/SeedWagon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SmoothBrainStudio&repo=SeedWagon"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SmoothBrainStudio&repo=SeedWagon" alt="SeedWagon Repo" style="align-self: stretch;"/>
 </a>
