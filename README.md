@@ -3,5 +3,5 @@
 </a>
 
 <a href="https://github.com/enzo-berti">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enzo-berti&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enzo-berti\&layout=compact"/>
 </a>
