@@ -1,7 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-berti&layout=compact&langs_count=8" alt="Top Languages" style="align-self: stretch;"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/pin?username=SmoothBrainStudio&repo=SeedWagon)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SmoothBrainStudio&repo=SeedWagon"/>
 </a>
